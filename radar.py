@@ -6,7 +6,7 @@ ser = serial.Serial("COM3", 256000)
 while True:
     #přečte data a vypíše je - pokud nic neukazuje (0), program čeká aby nevytížil procesor
     
-    #pokud nic neukazuje, pravděpodobně chyba v zapojený
+    #pokud nic neukazuje, pravděpodobně chyba v zapojení
 
     # Červený USB do červeného radaru
     # Bílý USB do zeleného radaru
